@@ -31,3 +31,10 @@ El conjunto de datos de títulos de Netflix es una recopilación completa de pel
 * listed_in: Los géneros a los que pertenece el título.
 * description: Un breve resumen del título.
 
+
+## Método
+1. En MySQL Workbench se crearon nuevas tablas a partir de la base de datos original. El objetivo fue crear visualizaciones en Tableau sobre el top directores, actores, países productores, etc., puesto que en la base de datos original aparecían separados por comas en las mismas columnas. Por ejemplo, en la columna "cast", cada película podía tener diferente número de actores, y estos aparecían separados por comas.
+2. Se creó un dashboard en Tableau sobre la información contenida en la base de datos original.
+3. A partir de la base de datos original, se creó una nueva base de datos para las películas producidas en el paíse estadounidense.
+4. Se creó un dashboard en Tableau sobre la información contenida en la base de datos que contenía las películas producidas en el país estadounidense.
+
