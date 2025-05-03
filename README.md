@@ -1,5 +1,5 @@
 # Peliculas-y-programas-de-television-de-Netflix
-Análisis y visualización de datos usando MySQL y Tableau, usando el conjunto de datos "Películas y programas de televisión de Netflix" de Kaggle.
+Manejo de base de datos y visualización de datos usando MySQL y Tableau, usando el conjunto de datos "Películas y programas de televisión de Netflix" de Kaggle.
 
 ## Objetivos
 * Practicar el manejo de base de datos SQL mediante MySQL Workbench.
